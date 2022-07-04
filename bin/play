@@ -1,0 +1,11 @@
+#!/usr/bin/env python3
+
+from rawgui import gui
+
+
+def main():
+    gui.play()
+
+
+if __name__ == "__main__":
+    main()
